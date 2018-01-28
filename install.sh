@@ -9,5 +9,4 @@ nano /etc/rc.local
 
 /home/pi/vpnserver/vpnserver start &
 
-
 ps aux|grep vpnserver
